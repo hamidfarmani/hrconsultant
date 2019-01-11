@@ -23,9 +23,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/base.css",
+              "src/fonts.css"
             ],
-            "scripts": []
+            "scripts": [
+
+            ]
           },
           "configurations": {
             "production": {
@@ -81,7 +85,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"
